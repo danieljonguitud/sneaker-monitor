@@ -1,0 +1,13 @@
+{
+    "name": "danieljonguitud/sneaker-monitor",
+    "description": "A simple sneaker monitor",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Jonguitud",
+            "email": "danieljonguitud17@outlook.com"
+        }
+    ],
+    "require": {}
+}
